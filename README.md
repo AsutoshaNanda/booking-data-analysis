@@ -3,7 +3,7 @@
 ## Project Overview
 
 This repository contains an Exploratory Data Analysis (EDA) of booking and contact data, likely from a hospitality platform. The goal of this project is to clean, analyze, and visualize the dataset to uncover key trends and insights into user and host behavior, focusing primarily on the rate of accepted bookings.
-
+ 
 The analysis is performed within a Jupyter Notebook using Python and popular data science libraries.
 
 ## Key Analysis and Findings
